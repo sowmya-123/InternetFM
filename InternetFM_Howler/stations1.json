@@ -1,0 +1,182 @@
+{
+    "AFR": {
+      "name": "Acid Flashback Radio",
+      "oldstreamURL": "http://158.69.227.214:8023",
+      "streamURL": "http://158.69.227.214:8023",
+      "iosURL": "http://158.69.227.214:8023/listen.pls",
+      "shortCode": "AFR",
+      "Description":"A psychedelic blend of classic rock, new wave, blues, alternative, and indie."
+    },
+    "PR": {
+      "name": "Planet Radio",
+      "streamURL": "http://66.85.88.18:5475/stream",
+      "shortCode": "PR"
+    },
+    "HR": {
+      "name": "Handcrafted Radio",
+      "streamURL": "http://66.85.88.18:5044/live",
+      "shortCode": "HR"
+    },
+    "RFP": {
+      "name": "Radio Free Phoenix",
+      "streamURL": "http://68.178.199.78:8000/;audio.mp3",
+      "shortCode": "RFP"
+    },
+    "RP": {
+      "name": "Radio Paradise",
+      "streamURL": "http://stream-dc1.radioparadise.com/mp3-128",
+      "shortCode": "RP"
+    },
+    "WFKU": {
+      "name": "WFKU",
+      "streamURL": "http://142.93.232.177:8000/wfku",
+      "shortCode": "WFKU"
+    },
+    "AFM": {
+      "name": "Acoustic FM",
+      "streamURL": "https://streaming.radionomy.com/Acoustic-FM?lang=en-US%2cen%3bq%3d0.9&ad=radionoweb&appName=website",
+      "shortCode": "AFM"
+    },
+    "TO": {
+      "name": "The Oasis",
+      "streamURL": "http://162.244.80.140:8058/stream",
+      "shortCode": "TO"
+    },
+    "SLCR": {
+      "name": "St. Louis Classic Rock",
+      "streamURL": "http://74.208.89.18:8000/SLCR_highdef.mp3",
+      "shortCode": "SLCR"
+    },
+    "ADR": {
+      "name": "All Dixie Rock",
+      "streamURL": "http://edge1-b.exa.live365.net/a88164",
+      "shortCode": "ADR"
+    },
+    "RSDT": {
+      "name": "Radio Shadow D.T.",
+      "streamURL": "http://162.244.80.131:8020/;stream.nsv",
+      "shortCode": "RSDT"
+    },
+    "FRR": {
+      "name": "Further Rock Radio",
+      "oldstreamURL": "http://edge1-a.exa.live365.net/a81821_live365?playerid=esPlayer",
+      "streamURL": "https://streaming.live365.com/a81821?cache=lyOSlSDSG3",
+      "shortCode": "FRR"
+    },
+    "QCI": {
+      "name": "QC Indie",
+      "streamURL": "http://23.227.178.146/;stream.nsv",
+      "shortCode": "QCI"
+    },
+    "PT": {
+      "name": "Paradise Tunes",
+      "streamURL": "http://192.99.177.195:8000/1?cb=726591.mp3",
+      "shortCode": "PT"
+    },
+    "PSY": {
+      "name": "Psychedelicized",
+      "streamURL": "http://s1.castserver.net:8006/;",
+      "shortCode": "PSY"
+    },
+    "RR": {
+      "name": "Radio Rocco",
+      "streamURL": "http://s46.myradiostream.com:7608/;",
+      "shortCode": "RR"
+    },
+    "BR": {
+      "name": "Beatles Radio",
+      "streamURL": "http://www.beatlesradio.com:8000/stream/1/",
+      "shortCode": "BR"
+    },
+    "SLC3": {
+      "name": "Beatles & Friends",
+      "streamURL": "http://74.208.89.18:8030/SLCR3_highdef.mp3",
+      "shortCode": "SLC3"
+    },
+    "TRR": {
+      "name": "Third Rock Radio",
+      "streamURL": "http://rfcmedia3.streamguys1.com/thirdrock.mp3",
+      "shortCode": "TRR"
+    },
+    "F89": {
+      "name": "Flaming 89",
+      "streamURL": "https://streaming.radionomy.com/flaming89?lang=en-US%2cen%3bq%3d0.9&ad=radionoweb&appName=website",
+      "shortCode": "F89"
+    },
+    "DUR": {
+      "name": "Desert Underground",
+      "streamURL": "http://46.105.122.141:6878/;",
+      "shortCode": "DUR"
+    },
+    "ZRTC": {
+      "name": "Zecom - The Choice",
+      "streamURL": "http://158.69.227.214:8149/live",
+      "shortCode": "ZRTC"
+    },
+    "TCR": {
+      "name": "The Colorful Radio",
+      "streamURL": "http://91.121.59.45:8244/stream",
+      "shortCode": "TCR"
+    },
+    "ASP": {
+      "name": "Ambient Sleeping Pill",
+      "streamURL": "https://radio.stereoscenic.com/asp-s",
+      "shortCode": "ASP"
+    },
+    "DO": {
+      "name": "Deep Oldies",
+      "streamURL": "http://68.178.199.114:9000/",
+      "shortCode": "DO"
+    },
+    "ISKC1": {
+      "name": "ISKC Rock Radio",
+      "original_streamURL": "https://www.iskc.rocks/rock320.m3u",
+      "streamURL": "http://livestream.shoutcaststream.com:8188/live",
+      "shortCode": "ISKC1"
+    },
+    "ISOMR": {
+      "name": "ISKC Old Men's Rock",
+      "streamURL": "http://oldrock.shoutcaststream.com:8150/live",
+      "shortCode": "ISOMR"
+    },
+    "ISOL": {
+      "name": "ISKC Only Live",
+      "streamURL": "http://onlylive.shoutcaststream.com:8138/live",
+      "shortCode": "ISOL"
+    },
+    "ISBC": {
+      "name": "ISKC Blues Cafe",
+      "streamURL": "http://iskcblues.shoutcaststream.com:8286/live",
+      "shortCode": "ISBC"
+    },
+    "ISRA": {
+      "name": "ISKC RadioActive",
+      "streamURL": "http://radiozctive.shoutcaststream.com:8084/live",
+      "shortCode": "ISRA"
+    },
+    "ISHR": {
+       "name": "ISKC Hard Rock Radio",
+       "streamURL": "http://rock320.shoutcaststream.com:8156/live",
+       "shortCode": "ISHR"
+    },
+    "KONG": {
+      "name": "Kong Monster Rock",
+      "streamURL": "http://38.107.242.152:8848/;stream.mp3",
+      "shortCode": "KONG"
+    },
+    "KXFU": {
+      "name": "KXFU Alternative",
+      "streamURL": "http://38.107.242.152:8960/;stream.mp3",
+      "shortCode": "KXFU"
+    },
+    "GEMZ": {
+      "name": "Marty Ziven's GEMZ",
+      "streamURL": "http://158.69.227.214:8088/live",
+      "shortCode": "GEMZ"
+    },
+    "ISXXL": {
+      "name": "ISKC XXL",
+      "streamURL": "http://cc6.beheerstream.com:8645/stream",
+      "shortCode": "ISXXL"
+    }
+  }

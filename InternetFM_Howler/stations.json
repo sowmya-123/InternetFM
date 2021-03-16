@@ -1,0 +1,245 @@
+{
+  "AFR": {
+    "name": "Acid Flashback Radio",
+    "oldstreamURL": "http://158.69.227.214:8023",
+    "streamURL": "http://158.69.227.214:8023",
+    "iosURL": "http://158.69.227.214:8023/listen.pls",
+    "shortCode": "AFR",
+    "Description": "A psychedelic blend of classic rock, new wave, blues, alternative, and indie.",
+    "genre": "Rock"
+  },
+  "PR": {
+    "name": "Planet Radio",
+    "streamURL": "http://thassos.cdnstream.com:5475/live",
+    "shortCode": "PR",
+    "genre": "Rock"
+  },
+  "HR": {
+    "name": "Handcrafted Radio",
+    "streamURL": "http://thassos.cdnstream.com:5044/live",
+    "shortCode": "HR",
+    "genre": "Rock"
+  },
+  "RFP": {
+    "name": "Radio Free Phoenix",
+    "streamURL": "http://209.95.50.189:8124",
+    "shortCode": "RFP",
+    "genre": "Alternative"
+  },
+  "RP": {
+    "name": "Radio Paradise",
+    "streamURL": "http://stream.radioparadise.com/aac-320",
+    "shortCode": "RP",
+    "genre": "Alternative"
+  },
+  "WFKU": {
+    "name": "WFKU",
+    "streamURL": "http://142.93.232.177:8000/wfku",
+    "shortCode": "WFKU",
+    "genre": "Alternative"
+  },
+  "SLCR": {
+    "name": "St. Louis Classic Rock",
+    "streamURL": "http://74.208.89.18:8000/SLCR_highdef.mp3",
+    "shortCode": "SLCR",
+    "genre": "Rock"
+  },
+  "ADR": {
+    "name": "All Dixie Rock",
+    "streamURL": "http://ais-edge07-live365-dal02.cdnstream.com/a88164",
+    "shortCode": "ADR",
+    "genre": "Rock"
+  },
+  "RSDT": {
+    "name": "Radio Shadow",
+    "streamURL": "http://162.244.80.131:8020/;stream.nsv",
+    "shortCode": "RSDT",
+    "genre": "Rock"
+  },
+  "FRR": {
+    "name": "Further Rock Radio",
+    "streamURL": "http://ais-edge07-live365-dal02.cdnstream.com/a81821",
+    "shortCode": "FRR",
+    "genre": "Jam Band"
+  },
+  "QCI": {
+    "name": "QC Indie",
+    "streamURL": "http://23.227.178.146/;stream.nsv",
+    "shortCode": "QCI",
+    "genre": "Alternative"
+  },
+  "PT": {
+    "name": "Paradise Tunes",
+    "streamURL": "http://192.99.177.195:8000/1?cb=726591.mp3",
+    "shortCode": "PT",
+    "genre": "Rock"
+  },
+  "PSY": {
+    "name": "Psychedelicized",
+    "streamURL": "http://s1.castserver.net:8006/;",
+    "shortCode": "PSY",
+    "genre": "Rock"
+  },
+  "BR": {
+    "name": "Beatles Radio",
+    "streamURL": "http://www.beatlesradio.com:8000/stream/1/",
+    "shortCode": "BR",
+    "genre": "Rock"
+  },
+  "SLC3": {
+    "name": "Beatles & Friends",
+    "streamURL": "http://74.208.89.18:8030/SLCR3_highdef.mp3",
+    "shortCode": "SLC3",
+    "genre": "Rock"
+  },
+  "TRR": {
+    "name": "Third Rock Radio",
+    "streamURL": "http://rfcmedia3.streamguys1.com/thirdrock.mp3",
+    "shortCode": "TRR",
+    "genre": "Alternative"
+  },
+  "DUR": {
+    "name": "Desert Underground",
+    "streamURL": "http://46.105.122.141:6878/;",
+    "shortCode": "DUR",
+    "genre": "Alternative"
+  },
+  "ZRTC": {
+    "name": "Zecom - The Choice",
+    "streamURL": "http://158.69.227.214:8149/live",
+    "shortCode": "ZRTC",
+    "genre": "Rock"
+  },
+  "TCR": {
+    "name": "The Colorful Radio",
+    "streamURL": "http://91.121.59.45:8244/stream",
+    "shortCode": "TCR",
+    "genre": "Rock"
+  },
+  "ASP": {
+    "name": "Ambient Sleeping Pill",
+    "streamURL": "https://radio.stereoscenic.com/asp-s",
+    "shortCode": "ASP",
+    "genre": "Chill"
+  },
+  "DO": {
+    "name": "Deep Oldies",
+    "streamURL": "http://209.95.50.189:8142/",
+    "shortCode": "DO",
+    "genre": "Oldies"
+  },
+  "ISKC1": {
+    "name": "ISKC Rock Radio",
+    "streamURL": "http://mediaserv68.live-streams.nl:8012/RockRadio",
+    "shortCode": "ISKC1",
+    "genre": "Rock"
+  },
+  "ISOMR": {
+    "name": "ISKC Old Men's Rock",
+    "streamURL": "http://mediaserv68.live-streams.nl:8012/OldMenRock",
+    "shortCode": "ISOMR",
+    "genre": "Rock"
+  },
+  "ISOL": {
+    "name": "ISKC Only Live",
+    "streamURL": "http://mediaserv68.live-streams.nl:8012/OnlyLive",
+    "shortCode": "ISOL",
+    "genre": "Rock"
+  },
+  "ISBC": {
+    "name": "ISKC Blues Cafe",
+    "streamURL": "http://mediaserv68.live-streams.nl:8012/BluesCafe",
+    "shortCode": "ISBC",
+    "genre": "Blues"
+  },
+  "KONG": {
+    "name": "Kong Monster Rock",
+    "streamURL": "http://s5.total-streaming.com:9786",
+    "shortCode": "KONG",
+    "genre": "Rock"
+  },
+  "KXFU": {
+    "name": "KXFU Alternative",
+    "streamURL": "http://s5.total-streaming.com:9788",
+    "shortCode": "KXFU",
+    "genre": "Alternative"
+  },
+  "GEMZ": {
+    "name": "Marty Zivin's GEMZ",
+    "streamURL": "http://158.69.227.214:8088/stream",
+    "shortCode": "GEMZ",
+    "genre": "Oldies"
+  },
+  "ISXXL": {
+    "name": "ISKC XXL",
+    "streamURL": "http://mediaserv68.live-streams.nl:8012/XXL",
+    "shortCode": "ISXXL",
+    "genre": "Rock"
+  },
+  "CRTV": {
+    "name": "Classic Rock: The Vault",
+    "streamURL": "http://ice6.securenetsystems.net/THEVAULT",
+    "shortCode": "CRTV",
+    "genre": "Rock"
+  },
+  "GOJR": {
+    "name": "Giants of Jazz Radio",
+    "streamURL": "https://streaming.radio.co/s297e618a7/listen",
+    "shortCode": "GOJR",
+    "genre": "Jazz"
+  },
+  "JEMP":{
+	  "name": "JEMP Radio",
+	  "streamURL": "https://streaming.radio.co/sd71de59b3/listen",
+	  "shortCode": "JEMP",
+	  "genre": "Jam Band"
+  },
+  "ISRA":{
+	  "name": "ISKC RadioActive",
+	  "streamURL": "http://mediaserv68.live-streams.nl:8012/RadioActive",
+	  "shortCode": "ISRA",
+	  "genre": "Rock"
+  },
+  "ISEM":{
+	  "name": "ISKC Extreme Metal",
+	  "streamURL": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal",
+	  "shortCode": "ISEM",
+	  "genre": "Metal"
+  },
+  "TBA": {
+	  "name": "The Blues Alley",
+	  "streamURL": "http://ice8.securenetsystems.net/BLUESALY",
+	  "shortCode": "TBA",
+	  "genre": "Blues"
+  },
+  "EMW":{
+	  "name": "Extreme Metalworx",
+	  "streamURL": "http://ice5.securenetsystems.net/EMWORX",
+	  "shortCode": "EMW",
+	  "genre": "Metal"
+  },
+  "R66":{
+	  "name": "Route 66 Cruisin' Country",
+	  "streamURL": "http://ice10.securenetsystems.net/ROUTE66",
+	  "shortCode": "R66",
+	  "genre": "Country"
+  },
+  "PZR":{
+	  "name": "Party Zone Radio",
+	  "streamURL": "http://ice7.securenetsystems.net/PZRADIO",
+	  "shortCode": "PZR",
+	  "genre":" Pop"
+  },
+  "BMFR":{
+      "name": "Blues Music Fan Radio",
+      "streamURL": "http://ais-sa2.cdnstream1.com/1992_128.mp3",
+      "shortCode": "BMFR",
+      "genre":"Blues"
+  },
+  "CCR":{
+      "name": "Cruisin' Country Radio",
+      "streamURL": "https://usa2.fastcast4u.com/proxy/cruisincountry?mp=/stream",
+      "shortCode": "CCR",
+      "genre":"Country"
+  }
+}
